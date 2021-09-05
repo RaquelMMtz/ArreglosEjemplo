@@ -1,0 +1,10 @@
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\bin\Debug\AppintroED2021.exe.config
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\bin\Debug\AppintroED2021.exe
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\bin\Debug\AppintroED2021.pdb
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\obj\Debug\AppintroED2021.csproj.AssemblyReference.cache
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\obj\Debug\AppintroED2021.Form1.resources
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\obj\Debug\AppintroED2021.Properties.Resources.resources
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\obj\Debug\AppintroED2021.csproj.GenerateResource.cache
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\obj\Debug\AppintroED2021.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\obj\Debug\AppintroED2021.exe
+C:\Users\Raquel Maya\source\repos\AppintroED2021\AppintroED2021\obj\Debug\AppintroED2021.pdb
